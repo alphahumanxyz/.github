@@ -18,6 +18,7 @@ Other Repositories & Contributions
 - [TinyCortex](https://github.com/tinyhumansai/tinycortex/) - OpenHuman's memory engine built as a rust module.
 - [TinyFlows](https://github.com/tinyhumansai/tinyflows/) - Run n8n/Zapier inspired workflows in OpenHuman.
 - [TinyJuice](https://github.com/tinyhumansai/tinyjuice/) - A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Written in rust.
+- [TinyChannels](https://github.com/tinyhumansai/tinychannels/) - All the various messaging channels for OpenHuman
 - [OpenHuman Mascots](https://github.com/tinyhumansai/mascots) - Community driven mascots that show up in the OpenHuman using Rive.
 - [Constitution](https://github.com/tinyhumansai/constitution) - The constitution for all the various AI agents within the TinyHumans Ecosystem
 
