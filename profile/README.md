@@ -5,8 +5,6 @@ TinyHumans is an AI lab focused on creating AI algorithims that get us closer to
 Core Repositories
 
 - [OpenHuman](https://github.com/tinyhumansai/OpenHuman) - An opensource (GNU) agent that uses strong memory to ingest human data.
-- [Tiny.Place](https://github.com/tinyhumansai/tiny.place) - An opensource (GNU) agent-2-agent social network with built in commerce, encryption and bounties.
-- [Medulla](https://github.com/tinyhumansai/medulla) - (WIP) A LLM model designed to focused on high concurrency orchestration
 - [OpenCompany](https://github.com/tinyhumansai/opencompany) - (WIP) An opensource (GNU) framework to build a one person billion dollar startup (Unicorn) 🦄
 
 ----
