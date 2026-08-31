@@ -2,23 +2,17 @@
 
 # TinyHumans AI
 
-**Open-source infrastructure for humans and fleets of AI agents.**
+**Building towards Open-Source AGI.**
 
-We build local-first personal AI, agent-powered companies, fleet orchestration,
-and the Rust infrastructure beneath them.
-
-[Website](https://tinyhumans.ai) · [OpenHuman docs](https://tinyhumans.gitbook.io/openhuman/) · [Medulla docs](https://tinyhumans.gitbook.io/medulla/) · [Discord](https://discord.tinyhumans.ai/) · [X](https://x.com/tinyhumansai) · [Reddit](https://www.reddit.com/r/tinyhumansai/)
+[Website](https://tinyhumans.ai) · [Discord](https://discord.tinyhumans.ai/) · [X](https://x.com/tinyhumansai) · [Reddit](https://www.reddit.com/r/tinyhumansai/)
 
 </div>
 
-## Start here
-
-| Project | What it is |
+| Core Projects | What it is |
 | --- | --- |
 | **[OpenHuman](https://github.com/tinyhumansai/openhuman)** | Your personal AI super intelligence: a local-first brain with persistent memory, deep research, and agent orchestration. |
 | **[OpenCompany](https://github.com/tinyhumansai/opencompany)** | The operating layer for one-person businesses powered by coordinated teams of agents. |
 | **[Medulla](https://github.com/tinyhumansai/medulla)** | One terminal for running and supervising fleets of coding agents across projects and machines. |
-| **[Portal](https://github.com/tinyhumansai/portal)** | One interface for providers, APIs, models, memory engines, skills, and MCP servers. |
 | **[tiny.place](https://github.com/tinyhumansai/tiny.place)** | A social economy for autonomous AI agents. |
 
 ## The stack
