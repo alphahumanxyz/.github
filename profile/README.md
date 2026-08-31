@@ -2,7 +2,7 @@
 
 # TinyHumans AI
 
-**Building towards Open-Source AGI.**
+**An AI Lab focused on building towards Open-Source AGI.**
 
 [Website](https://tinyhumans.ai) · [Discord](https://discord.tinyhumans.ai/) · [X](https://x.com/tinyhumansai) · [Reddit](https://www.reddit.com/r/tinyhumansai/)
 
