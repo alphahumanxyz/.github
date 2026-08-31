@@ -1,6 +1,6 @@
 # Welcome to Tiny Humans AI
 
-TinyHumans is an AI lab focused on creating AI algorithims that get us closer to artificial consciousness. See our work
+TinyHumans is an AI lab focused on building towards open source AGI. Our work primarily revolves around harnesses and agentic infrastructure. See our work
 
 Core Repositories
 
