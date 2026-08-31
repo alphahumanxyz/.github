@@ -1,30 +1,43 @@
-# Welcome to Tiny Humans AI
+<div align="center">
 
-TinyHumans is an AI lab focused on building towards open source AGI. Our work primarily revolves around harnesses and agentic infrastructure. See our work
+# TinyHumans AI
 
-### Core Repositories
+**Open-source infrastructure for humans and fleets of AI agents.**
 
-These are the main products that we are working on
+We build local-first personal AI, agent-powered companies, fleet orchestration,
+and the Rust infrastructure beneath them.
 
-- [OpenHuman](https://github.com/tinyhumansai/OpenHuman) - An opensource (GNU) agent that uses strong memory to ingest human data.
-- [OpenCompany](https://github.com/tinyhumansai/opencompany) - (WIP) An opensource (GNU) framework to build a one person billion dollar startup (Unicorn) 🦄
-- [Medulla](https://github.com/tinyhumansai/medulla) - Manage upto 1000 agents using automations and workflows
+[Website](https://tinyhumans.ai) · [OpenHuman docs](https://tinyhumans.gitbook.io/openhuman/) · [Medulla docs](https://tinyhumans.gitbook.io/medulla/) · [Discord](https://discord.tinyhumans.ai/) · [X](https://x.com/tinyhumansai) · [Reddit](https://www.reddit.com/r/tinyhumansai/)
 
-----
+</div>
 
-### Core Libraries
+## Start here
 
-Libraries that are a major part of our work. Mostly rust based and are all open source
+| Project | What it is |
+| --- | --- |
+| **[OpenHuman](https://github.com/tinyhumansai/openhuman)** | Your personal AI super intelligence: a local-first brain with persistent memory, deep research, and agent orchestration. |
+| **[OpenCompany](https://github.com/tinyhumansai/opencompany)** | The operating layer for one-person businesses powered by coordinated teams of agents. |
+| **[Medulla](https://github.com/tinyhumansai/medulla)** | One terminal for running and supervising fleets of coding agents across projects and machines. |
+| **[Portal](https://github.com/tinyhumansai/portal)** | One interface for providers, APIs, models, memory engines, skills, and MCP servers. |
+| **[tiny.place](https://github.com/tinyhumansai/tiny.place)** | A social economy for autonomous AI agents. |
 
-- [TinyAgents](https://github.com/tinyhumansai/tinyagents) - A recursive language-model (RLM) harness for Rust. OpenHuman's core agent harness.
+## The stack
 
-### Other Repositories & Contributions
+TinyHumans is a collection of focused, composable projects. Most of the core
+infrastructure is built in Rust and shared across our products.
 
-- [TinyCortex](https://github.com/tinyhumansai/tinycortex/) - OpenHuman's memory engine built as a rust module.
-- [TinyFlows](https://github.com/tinyhumansai/tinyflows/) - Run n8n/Zapier inspired workflows in OpenHuman.
-- [TinyJuice](https://github.com/tinyhumansai/tinyjuice/) - A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Written in rust.
-- [TinyChannels](https://github.com/tinyhumansai/tinychannels/) - All the various messaging channels for OpenHuman
-- [OpenHuman Mascots](https://github.com/tinyhumansai/mascots) - Community driven mascots that show up in the OpenHuman using Rive.
-- [Constitution](https://github.com/tinyhumansai/constitution) - The constitution for all the various AI agents within the TinyHumans Ecosystem
+| Layer | Repositories |
+| --- | --- |
+| **Agents, inference, and memory** | [tinyagents](https://github.com/tinyhumansai/tinyagents) · [tinyinference](https://github.com/tinyhumansai/tinyinference) · [tinymemory](https://github.com/tinyhumansai/tinymemory) · [tinycortex](https://github.com/tinyhumansai/tinycortex) · [tinyhiveminds](https://github.com/tinyhumansai/tinyhiveminds) · [tinyjuice](https://github.com/tinyhumansai/tinyjuice) |
+| **Workflows and orchestration** | [tinyflows](https://github.com/tinyhumansai/tinyflows) · [tinyloops](https://github.com/tinyhumansai/tinyloops) · [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyskills](https://github.com/tinyhumansai/tinyskills) · [tinyworkspaces](https://github.com/tinyhumansai/tinyworkspaces) |
+| **Channels and integrations** | [tinychannels](https://github.com/tinyhumansai/tinychannels) · [tinyconnectors](https://github.com/tinyhumansai/tinyconnectors) · [tinymcp](https://github.com/tinyhumansai/tinymcp) · [tinydocs](https://github.com/tinyhumansai/tinydocs) · [tinybrowser](https://github.com/tinyhumansai/tinybrowser) · [tinydesktop](https://github.com/tinyhumansai/tinydesktop) · [tinyvoice](https://github.com/tinyhumansai/tinyvoice) · [tinywallet](https://github.com/tinyhumansai/tinywallet) |
+| **Runtime and systems** | [tinybus](https://github.com/tinyhumansai/tinybus) · [tinyruntime](https://github.com/tinyhumansai/tinyruntime) · [tinyruntime-nodejs](https://github.com/tinyhumansai/tinyruntime-nodejs) · [tinyruntime-python](https://github.com/tinyhumansai/tinyruntime-python) · [tinybox](https://github.com/tinyhumansai/tinybox) · [tinyhosts](https://github.com/tinyhumansai/tinyhosts) · [whisper-rs-sys](https://github.com/tinyhumansai/whisper-rs-sys) |
+| **Developer and community projects** | [tinyanalyzer](https://github.com/tinyhumansai/tinyanalyzer) · [tinysweeper](https://github.com/tinyhumansai/tinysweeper) · [tinyfinance](https://github.com/tinyhumansai/tinyfinance) · [SDK](https://github.com/tinyhumansai/sdk) · [Rust template](https://github.com/tinyhumansai/rust-template) · [skill registry](https://github.com/tinyhumansai/skill-registry) · [mascots](https://github.com/tinyhumansai/mascots) · [constitution](https://github.com/tinyhumansai/constitution) |
 
-Join our community over at [Discord](https://discord.gg/k23Kn8nK) - [Reddit](https://www.reddit.com/r/tinyhumansai/) - [Twitter/X](https://x.com/tinyhumansai)
+## Build with us
+
+Our projects are developed in the open. Explore the
+[repositories](https://github.com/orgs/tinyhumansai/repositories), pick up a
+[good first issue](https://github.com/search?q=org%3Atinyhumansai+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues),
+or join the conversation on [Discord](https://discord.tinyhumans.ai/) and
+[GitHub Discussions](https://github.com/tinyhumansai/openhuman/discussions).
