@@ -1,3 +1,5 @@
+<img src="https://github.com/tinyhumansai/.github/blob/main/profile/banner.png?raw=true" />
+
 <div align="center">
 
 # TinyHumans AI
